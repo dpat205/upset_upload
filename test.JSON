@@ -1,0 +1,15 @@
+{
+	"file": "https://raw.githubusercontent.com/dpat205/upset_upload/master/all_ct_matrix",
+	"name": "Test",
+	"header": 0,
+	"separator": "\t",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 15 }
+	]
+}
+
+
